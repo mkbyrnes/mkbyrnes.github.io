@@ -1,4 +1,10 @@
-body {
-	background-color: #FFFF00
+body {text-align: center; 
+	background-image:url(file://C:\Users\ByrnesM\Desktop\mkbyrnes.github.io\arnold\image);
+	background-size: cover;
+	font-family: Helvetica
+	;
 }
-h1, p {font-color: #0000FF}
+h1, h2, h3, p {color: #0000FF;
+	text-align: center;
+	font-family: helvetica;
+}

@@ -1,0 +1,43 @@
+body {text-align: center; 
+	background-image:url(file://C:\Users\ByrnesM\Desktop\mkbyrnes.github.io\arnold\image);
+	background-size: cover;
+	font-family: Helvetica
+	;
+}
+
+h1 {color: #ff0000;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 3px 2px black;
+
+}
+
+h3 {color: #ff0000;
+	text-align: center;
+
+}
+
+div {color: #000000;
+	text-align: center;
+}
+
+h4 {color: #ff0000;
+	text-align: left;}
+
+#header_break{
+  width: 1024px;
+  border-color: red}
+
+#content_break{
+  width: 1024px;
+  border-color: red}
+
+#list {text-align: left; }
+
+
+#slogan {font-style: italic;
+text-align: center;}
+
+#intro {color: #000000}
+
+#blog {text-align: left; font-size: medium;}
