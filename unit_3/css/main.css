@@ -3,7 +3,7 @@
 body {text-align: center; 
 	background-image:url(file://C:\Users\ByrnesM\Desktop\mkbyrnes.github.io\unit_3\images);
 	background-size: cover;
-
+	font-family: helvetica;
 	
 }
 
@@ -11,8 +11,6 @@ h1 {color: #ff0000;
 	text-align: center;
 	text-transform: uppercase;
 	text-shadow: 3px 2px black;
-	font-family: helvetica;
-
 
 }
 
@@ -28,13 +26,10 @@ div {color: #000000;
 
 h4 {color: #ff0000;
 	text-align: left;
+}
+ 
 
-
-
-
-#header_break{
-  width: 1024px;
-  border-color: red}
+#header_break{width: 1024px}
 
 #content_break{
   width: 1024px;
