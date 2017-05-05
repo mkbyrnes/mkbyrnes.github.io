@@ -1,20 +1,23 @@
-head{ font-family: 'Boogaloo', cursive; }
+
 
 body {text-align: center; 
 	background-image:url(file://C:\Users\ByrnesM\Desktop\mkbyrnes.github.io\unit_3\images);
 	background-size: cover;
-	font-family: Helvetica;
+
+	
 }
 
 h1 {color: #ff0000;
 	text-align: center;
 	text-transform: uppercase;
 	text-shadow: 3px 2px black;
+	font-family: 'Baloo Bhaina', cursive;
 
 }
 
 h3 {color: #ff0000;
 	text-align: center;
+	font-family: 'Baloo Bhaina', cursive;
 
 }
 
@@ -23,7 +26,13 @@ div {color: #000000;
 }
 
 h4 {color: #ff0000;
-	text-align: left;}
+	text-align: left;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+
+p { font-family: 'Boogaloo', cursive; 
+}
 
 #header_break{
   width: 1024px;
